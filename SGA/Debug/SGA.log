@@ -1,0 +1,5 @@
+﻿  cMonster.cpp
+  main.cpp
+c:\users\brian\desktop\sga\sga\main.cpp(16): warning C4101: 'nSelect' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  SGA.vcxproj -> C:\Users\brian\Desktop\SGA\Debug\SGA.exe
